@@ -1,5 +1,2 @@
-beautifulsoup4==4.12.2
-requests==2.31.0
-pandas==2.0.3
-random-user-agent==0.1.8
-tkinter
+selenium==4.18.1
+webdriver-manager==4.0.1
